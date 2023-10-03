@@ -1,0 +1,18 @@
+{
+  "id": "mig_ckburclvttv1l6b5kgu0",
+  "parentID": "mig_ckbur8n62nn1dq23387g",
+  "checksum": "1:adb21242e306f40cf9b84a46bf2f845c858b649d60fa28d524609ccbe187d608",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "type",
+          "type": "string",
+          "notNull": true,
+          "defaultValue": "Fulltime"
+        },
+        "table": "job"
+      }
+    }
+  ]
+}

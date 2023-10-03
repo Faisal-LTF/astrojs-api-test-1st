@@ -1,0 +1,18 @@
+{
+  "id": "mig_ckbuqgdvttv1l6b5kgt0",
+  "parentID": "mig_ckbuqbn62nn1dq23386g",
+  "checksum": "1:42a2658908f81aa31f824b78ba7b193ce226c8618c6ffd95276f67f47e8e5fbd",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "company",
+          "type": "string",
+          "notNull": true,
+          "defaultValue": "Aevar"
+        },
+        "table": "job"
+      }
+    }
+  ]
+}

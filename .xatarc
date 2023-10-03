@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://M-Faisal-Lutfi-s-workspace-7344k9.ap-southeast-2.xata.sh/db/ast-test",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

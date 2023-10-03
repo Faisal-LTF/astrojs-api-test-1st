@@ -1,0 +1,18 @@
+{
+  "id": "mig_ckbuqbn62nn1dq23386g",
+  "parentID": "mig_ckbuq1dvttv1l6b5kgs0",
+  "checksum": "1:4e56d50054f6465da7aca1be08e3e75e611090ec92aaa0b63cbbaf986747ef15",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "link",
+          "type": "string",
+          "notNull": true,
+          "defaultValue": "www.jobstreet.com"
+        },
+        "table": "job"
+      }
+    }
+  ]
+}
